@@ -35,13 +35,13 @@ int main(void) {
 		printf(" | 2  |	Imprimir lista       |\n");
 		printf(" | 3  | Asignar rating       |\n");
 		printf(" | 4  | Asignar genero       |\n");
-		printf(" | 5  | Filtrar por género   |\n");
+		printf(" | 5  | Filtrar por genero   |\n");
 		printf(" | 6  | Ordenar películas    |\n");
 		printf(" | 7  | Guardar películas    |\n");
 		printf(" | 8  | Salir                |\n");
 		printf(" |---------------------------|\n");
 
-		do{ /* Filtro de la opci�n elegida por el usuario */
+		do{
 			printf("  ___________________________________________");
 			printf("\n | Por favor no ingrese letras, solo numeros |");
 			printf("\n  __________________________");
